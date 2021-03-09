@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"M:/depaul/school_git_content/spring-petclinic","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
